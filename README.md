@@ -123,8 +123,8 @@ An intelligent agriculture chatbot powered by Retrieval-Augmented Generation (RA
 
 ## Support
 
-For questions or support, please contact the CropPilot Team.
+For questions or support, please contact the Ahmed Almohamdy.
 
 ---
 
-**Developed with ❤️ by CropPilot Team**
+**Developed with ❤️ by Ahmed Almohamdy**
